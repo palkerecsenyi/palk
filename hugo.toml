@@ -1,0 +1,15 @@
+baseURL = 'https://palk.me/'
+languageCode = 'en-gb'
+title = 'Pal Kerecsenyi'
+theme = "papermod"
+
+[params]
+socialIcons = [
+    { name = "Linkedin", url = "https://www.linkedin.com/in/palkerecs/" },
+    { name = "X", url = "https://x.com/palkerecs" },
+    { name = "Mastodon", url = "https://mastodon.social/@palkerecs" },
+]
+[params.profileMode]
+enabled = true
+subtitle = "Founder of Palform, a private end-to-end encrypted form builder. Developer experienced with Go, Rust, TS, React, Svelte."
+buttons = [{ name = "Visit Palform", url = "https://palform.app" }]
